@@ -1,5 +1,7 @@
-# parkinson-s-disease-prediction
-# Parkinson's Disease Prediction using XGBoost
+# Parkinson-s-disease-prediction
+
+Parkinson’s disease (PD) is a progressive neurological disorder that affects movement. It occurs due to the gradual degeneration of dopamine-producing neurons in the brain, particularly in the substantia nigra region.
+
 
 ## 📌 Overview
 This project focuses on predicting Parkinson's disease using machine learning, specifically the **XGBoost algorithm**. The model is trained on a dataset containing biomedical voice measurements to distinguish between healthy individuals and Parkinson's patients.
