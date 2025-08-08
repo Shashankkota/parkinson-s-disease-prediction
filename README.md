@@ -1,4 +1,4 @@
-# Parkinson-s-disease-prediction
+# Parkinson's-disease-prediction
 
 Parkinson’s disease (PD) is a progressive neurological disorder that affects movement. It occurs due to the gradual degeneration of dopamine-producing neurons in the brain, particularly in the substantia nigra region.
 
